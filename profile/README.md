@@ -5,4 +5,4 @@
 
 
 
-<img align="center" alt="Coding" width="100%" hight="50%" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="center" alt="Coding" width="auto" hight="auto" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
