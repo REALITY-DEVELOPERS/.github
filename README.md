@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome To Reality Github Organization</h1>
 
 
-<h2 align="center">`PROJECT </h2>
+<h2 align="center">PROJECT </h2>
 
 
 
